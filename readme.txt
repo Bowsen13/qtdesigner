@@ -1,5 +1,8 @@
 to make run.py work :
-    -change in mainwindow_ui.py the QPushButton for Une_cartouche
+    -change in mainwindow_ui.py :
+        -the QPushButton for Une_cartouche
+        -the QTreeView for File_explorer
+    
     -replace : import.ressources_rc by :
         import ressources.ressources_rc
         from fileexplorer.fileexplorer import File_explorer

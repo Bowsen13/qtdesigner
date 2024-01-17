@@ -1,4 +1,4 @@
-to make run work :
+to make run.py work :
     -change in mainwindow_ui.py the QPushButton for Une_cartouche
     -replace : import.ressources_rc by :
         import ressources.ressources_rc
